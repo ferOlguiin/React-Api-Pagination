@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Api-Pagination/static/css/main.1a8a0596.css",
+    "main.js": "/React-Api-Pagination/static/js/main.b188ece0.js",
+    "index.html": "/React-Api-Pagination/index.html",
+    "main.1a8a0596.css.map": "/React-Api-Pagination/static/css/main.1a8a0596.css.map",
+    "main.b188ece0.js.map": "/React-Api-Pagination/static/js/main.b188ece0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.b188ece0.js"
+  ]
+}
